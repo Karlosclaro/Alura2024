@@ -1,3 +1,7 @@
+.titulo-blog {
+  color:black
+}
+
 div {
   width: 480px;
   padding: 14px;
@@ -8,7 +12,7 @@ div {
 h1 {
   margin-top: 2px;
   font-weight: bold;
-  color: firebrick;
+  color: blueviolet;
   font-size: 50px;
 }
 
